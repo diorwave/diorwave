@@ -42,6 +42,7 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
   - <a href="https://github.com/diorwave/Patentpath">**diorwave/Patentpath**</a>
   - <a href="https://github.com/diorwave/brev">**diorwave/brev**</a>
   - <a href="https://github.com/diorwave/Enterprise-ETL-Engine">**diorwave/Enterprise-ETL-Engine**</a>
+  - <a href="https://github.com/diorwave/kafka-clickhouse-sink">**diorwave/kafka-clickhouse-sink**</a>
 
 #### 📱 Mobile Projects
   - **[diorwave/bleach-ui](https://github.com/diorwave/bleach-ui)**
