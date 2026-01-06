@@ -26,7 +26,7 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
  - <a href="https://github.com/diorwave/HR-management">**diorwave/HR-management**</a>
 
 #### ⛓️ Blockchain & Decentralized Projects
- - <a href="https://github.com/diorwave/Solidity-Contracts">**diorwave/Solidity-Contracts**</a>
+ - <a href="https://github.com/diorwave/move-registry">**diorwave/move-registry**</a>
  - <a href="https://github.com/diorwave/Solana-Arbitrage-Bot">**diorwave/Solana-Arbitrage-Bot**</a>
  - <a href="https://github.com/diorwave/pyledger">**diorwave/pyledger**</a>
  - <a href="https://github.com/diorwave/Plutus-prototye">**diorwave/Plutus-prototye**</a>
