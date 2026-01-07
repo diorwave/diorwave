@@ -10,6 +10,7 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
  - <a href="https://github.com/diorwave/ASKSpeak">**diorwave/ASKSpeak**</a> - translate ASL gestures to spoken words real-time.
 
 ####  ❤️ My Favorite Projects
+ - <a href="https://github.com/diorwave/cmd-chat">**diorwave/cmd-chat**</a> - End-to-end encrypted peer-to-peer terminal chat with zero logs or servers.
  - <a href="https://github.com/diorwave/solana-program-library">**diorwave/solana-program-library**</a> - core on-chain programs for Solana blockchain.
  - <a href="https://github.com/diorwave/plutus-pioneer-program">**diorwave/plutus-pioneer-program**</a> - course materials for Cardano smart-contract dev.
  - <a href="https://github.com/diorwave/EduGPT">**diorwave/EduGPT**</a> - AI-powered tutor / teaching assistant using LLM + langchain.
