@@ -18,6 +18,7 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
  - <a href="https://github.com/diorwave/langgraph">**diorwave/langgraph**</a> - Framework for building language agents as graph structures.
  - <a href="https://github.com/diorwave/firecrawl">**diorwave/firecrawl**</a> - Scrape and convert websites into clean LLM-ready datasets.
  - <a href="https://github.com/diorwave/Stockagent">**diorwave/Stockagent**</a> - project around stock-market agent/automation
+ - <a href="https://github.com/diorwave/crush">**diorwave/crush**</a>
 
 #### 🧩 Full-Stack Projects
  - <a href="https://github.com/diorwave/tulos_updated">**diorwave/tulos_updated**</a>
