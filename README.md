@@ -83,15 +83,7 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
 </details>
 
 ---
-#### 📚 Books I'm reading
-- **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
-- **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
-- **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
-- **[Studio 21: Vokabeltaschenbuch B1](https://www.goodreads.com/book/show/51094341-studio-21)** by _CORNELSEN VERLAG GMBH 6 CO._
-
-Thank you so much for watching everyone! 🙏
-
-## Contact
+#### 📫 Contact
 
 <p align="left">
   <a href="https://t.me/pk97630">
@@ -101,4 +93,14 @@ Thank you so much for watching everyone! 🙏
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
+#### 📚 Books I'm reading
+- **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
+- **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
+- **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
+- **[Studio 21: Vokabeltaschenbuch B1](https://www.goodreads.com/book/show/51094341-studio-21)** by _CORNELSEN VERLAG GMBH 6 CO._
+
+Thank you so much for watching everyone! 🙏
+
+
 
