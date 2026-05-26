@@ -90,3 +90,15 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
 - **[Studio 21: Vokabeltaschenbuch B1](https://www.goodreads.com/book/show/51094341-studio-21)** by _CORNELSEN VERLAG GMBH 6 CO._
 
 Thank you so much for watching everyone! 🙏
+
+## Contact
+
+<p align="left">
+  <a href="https://t.me/pk97630">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/922737347957772310">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
