@@ -86,6 +86,9 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
 #### 📫 Contact
 
 <p align="left">
+  <a href="mailto:mirai.lucky.dev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
   <a href="https://t.me/pk97630">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
