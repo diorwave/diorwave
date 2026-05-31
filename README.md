@@ -83,20 +83,6 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
 </details>
 
 ---
-#### 📫 Contact
-
-<p align="left">
-  <a href="mailto:mirai.lucky.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/pk97630">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://discord.com/users/922737347957772310">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
 - **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
